@@ -1,0 +1,15 @@
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\bin\Debug\net5.0\RomanToNumber.exe
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\bin\Debug\net5.0\RomanToNumber.deps.json
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\bin\Debug\net5.0\RomanToNumber.runtimeconfig.json
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\bin\Debug\net5.0\RomanToNumber.runtimeconfig.dev.json
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\bin\Debug\net5.0\RomanToNumber.dll
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\bin\Debug\net5.0\ref\RomanToNumber.dll
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\bin\Debug\net5.0\RomanToNumber.pdb
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\obj\Debug\net5.0\RomanToNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\obj\Debug\net5.0\RomanToNumber.AssemblyInfoInputs.cache
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\obj\Debug\net5.0\RomanToNumber.AssemblyInfo.cs
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\obj\Debug\net5.0\RomanToNumber.csproj.CoreCompileInputs.cache
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\obj\Debug\net5.0\RomanToNumber.dll
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\obj\Debug\net5.0\ref\RomanToNumber.dll
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\obj\Debug\net5.0\RomanToNumber.pdb
+D:\Marco\Cursos\C#\RomanToNumber\RomanToNumber\obj\Debug\net5.0\RomanToNumber.genruntimeconfig.cache
